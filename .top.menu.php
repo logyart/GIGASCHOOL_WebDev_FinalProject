@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Новости",
+		"news/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Команда",
+		"teams/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Тренеры",
+		"coaches/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+);
+?>
